@@ -1,5 +1,5 @@
-### Hi there 👋
-### Greatings, I am Chethan Bekal
+
+## Greatings, I am Chethan Bekal 👋
 Welcome to my GitHub Profile, This is the home of my projects, experiments, and some ideas.
 
 
