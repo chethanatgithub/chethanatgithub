@@ -2,7 +2,7 @@
 # Hi Greatings, I am Chethan Bekal 👋
 Welcome to my GitHub Profile, This is the home of my projects, experiments, and some ideas.
 ### About Me:
-I am basically a GIS Analyst
+I am a GIS professional who involved in creating, analysing and visualizing Geospatial Data.
 I am also interested in  Data Science, Machine Learning, Artificial Intelligence and other related stuffs.
 I love keep learning!.
 
