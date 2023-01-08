@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my GitHub Profile, This is the home of my projects, experiments, and some ideas.
+
 
 <!--
 **chethanatgithub/chethanatgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
